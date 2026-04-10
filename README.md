@@ -2,6 +2,10 @@
 
 Database design for a multi building intelligent elevator platform modeling buildings floors elevators requests ride assignments logs status tracking and maintenance history for scalable real world infrastructure management.
 
+## Thought Process
+
+![ThoughtProcess](ThoughtProcess.jpeg)
+
 ## Answers to the following section
 
 What You Have to Do
@@ -23,10 +27,6 @@ What You Have to Do
 15. Can maintenance history be tracked per elevator?
 
 ![AnsweringTheIMPQuestions](AnweringTheIMPQuestions.jpeg)
-
-## Thought Process
-
-![ThoughtProcess](ThoughtProcess.jpeg)
 
 ## ER Diagram
 
